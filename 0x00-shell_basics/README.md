@@ -1,1 +1,1 @@
-A script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+command that lists all the files and directories of the current directory, separated by commas (,).Directory names end with a slash (/). Files and directories starting with a dot (.) listed The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning Digits should come first
