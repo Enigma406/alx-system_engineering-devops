@@ -1,1 +1,1 @@
-Task 12. File Type
+Task 13. Symbolic link
