@@ -1,1 +1,1 @@
-a script that adds execute permission to the owner, the group owner, and the other users, to the file hello.
+a script that permission to the file hello as follows; Owner and Group: no permission at all, Other users: all the permissions
