@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -lt -1 type f | head
